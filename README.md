@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dragod
-- 👀 I’m interested in javascript/ts, e2e testing, powershell scripting, GUI with electron/powershell, nodejs, vue, bash, linux, networking, virtualization (proxmox) 
+- 👀 I’m interested in javascript/ts, e2e testing, powershell scripting, GUI with electron/powershell, nodejs, vue, bash, linux, networking, virtualization (proxmox), web development html/css(sass/stylus).
 - 🌱 I’m currently learning how to build electron apps
 
 <!---
