@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Dragod
-- 👀 I’m interested in:
--  javascript/ts, 
+👋 Hi, I’m @Dragod, I am workking as a DevOps in [Screendragon](https://www.screendragon.com/)
+
+All the area that I am interested in:
+-  Vanilla Javascript/TS, 
 -  e2e testing, 
 -  powershell scripting, 
 -  GUI with electron/powershell, 
@@ -12,8 +13,8 @@
 -  networking, 
 -  virtualization (proxmox)
 -  web development html/css(sass/stylus), 
--  self-hosting.
-- 🌱 I’m currently learning how to build electron apps
+-  self-hosting (mostly with Docker)
+- 🌱 I’m currently learning how to build electron apps and other things such as Sql, SqlLite, Mongo.
 
 <!---
 Dragod/Dragod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
