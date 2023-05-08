@@ -1,19 +1,21 @@
 👋 Hi, I’m @Dragod, I am working as a DevOps in [Screendragon](https://www.screendragon.com/)
 
 All the area that I am interested in:
--  Vanilla Javascript/TS, 
--  e2e testing, 
--  powershell scripting, 
+-  Vanilla Javascript/Typescript, 
+-  E2e testing (Cypress), 
+-  Powershell scripting, 
 -  GUI with electron/powershell, 
 -  Ansible
--  nodejs, 
--  vue, 
--  bash, 
--  linux, 
--  networking, 
--  virtualization (proxmox)
--  web development html/css(sass/stylus), 
+-  Terraform
+-  Nodejs,
+-  Vue, Svelte
+-  Bash,
+-  Linux OS,
+-  Networking
+-  Virtualization (proxmox, vmware)
+-  Web development html/css(sass/stylus)
 -  self-hosting (mostly with Docker)
+-  DB's Sqlite, Supabase (Postgres), MSsql, Mongo
 
 I’m currently learning how to build electron apps and other things such as Sql, SqlLite, Mongo.
 
