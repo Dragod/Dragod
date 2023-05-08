@@ -6,7 +6,7 @@ All the area that I am interested in:
 -  Scripting (powershell, python)
 -  GUI with electron/powershell
 -  Ansible
--  Terraform
+-  Iac: Terraform
 -  Nodejs
 -  Vue, Svelte
 -  Bash
