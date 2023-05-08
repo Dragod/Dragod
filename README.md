@@ -1,4 +1,4 @@
-👋 Hi, I’m @Dragod, I am working as a DevOps in [Screendragon](https://www.screendragon.com/)
+👋 Hi, I’m @Dragod, I am working as a DevOps at [Screendragon](https://www.screendragon.com/)
 
 All the area that I am interested in:
 -  Vanilla Javascript/Typescript
@@ -10,7 +10,7 @@ All the area that I am interested in:
 -  Nodejs
 -  Vue, Svelte
 -  Bash
--  Linux OS,
+-  Linux OS
 -  Networking
 -  Virtualization (proxmox, vmware)
 -  Web development html/css(sass/stylus)
