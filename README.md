@@ -1,15 +1,15 @@
 👋 Hi, I’m @Dragod, I am working as a DevOps in [Screendragon](https://www.screendragon.com/)
 
 All the area that I am interested in:
--  Vanilla Javascript/Typescript, 
--  E2e testing (Cypress), 
--  Powershell scripting, 
--  GUI with electron/powershell, 
+-  Vanilla Javascript/Typescript
+-  E2e testing (Cypress)
+-  Scripting (poweershell, python)
+-  GUI with electron/powershell
 -  Ansible
 -  Terraform
--  Nodejs,
+-  Nodejs
 -  Vue, Svelte
--  Bash,
+-  Bash
 -  Linux OS,
 -  Networking
 -  Virtualization (proxmox, vmware)
