@@ -3,7 +3,7 @@
 All the area that I am interested in:
 -  Vanilla Javascript/Typescript
 -  E2e testing (Cypress)
--  Scripting (poweershell, python)
+-  Scripting (powershell, python)
 -  GUI with electron/powershell
 -  Ansible
 -  Terraform
