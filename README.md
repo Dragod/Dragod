@@ -14,7 +14,7 @@ All the area that I am interested in:
 -  Virtualization (proxmox, vmware workstation)
 -  Web development html/css(sass/stylus)
 -  Self-hosting (mostly with Docker)
--  DB's Sqlite, Postgres (Supabase), MSsql, Mongo
+-  DB's Sqlite, Postgres (Supabase), MSsql, Mongo, Mysql, MariaDb
 
 I’m currently learning MySql, Mongo, C#
 
