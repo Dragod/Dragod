@@ -42,7 +42,6 @@ All the area that I am interested in:
 -  DB's Sqlite, Postgres (Supabase), MSsql, Mongo, Mysql, MariaDb
 - Cloud: AWS [EC2, ECS, Coludformation, Coludwatch]
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!---
 Dragod/Dragod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
