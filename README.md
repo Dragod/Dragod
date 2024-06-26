@@ -29,16 +29,16 @@ I’m currently learning MySql, Mongo, C#
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Cypress" height="25" src="images/Cypress_Logomark_White-Color.svg"></code>
+  <code><img title="EC2" height="25" src="images/EC2.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
 </p>
 <hr>
 
