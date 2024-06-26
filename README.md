@@ -25,7 +25,8 @@
 <hr>
 👋 Hi, I’m @Fabio, I am working as a DevOps at <a href="https://www.screendragon.com">Screendragon</a>
 
-All the area that I am interested in:<br>
+All the area that I am interested in:
+
 -  Languages: Javascript, Python, c#
 -  E2e testing (Cypress)
 -  Scripting (Powershell, Python, Bash)
