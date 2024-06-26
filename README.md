@@ -6,7 +6,7 @@
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Powershell" height="25" src="images/powershell.svg"></code>
+  <code><img title="Powershell" height="25" src="images/PowerShell.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
