@@ -1,5 +1,5 @@
 <p align="center">
-  <img title="Pfcode" height="300" src="images/pfcode.svg">
+  <img title="Pfcode" height="200" src="images/pfcode.svg">
 </p>
 <p align="center">
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
