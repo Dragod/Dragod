@@ -11,6 +11,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Cypress" height="25" src="images/Cypress_Logomark_White-Color.svg"></code>
+  <code><img title="AWS" height="25" src="images/aws.svg"></code>
   <code><img title="EC2" height="25" src="images/EC2.svg"></code>
   <code><img title="ECS" height="25" src="images/ecs.svg"></code>
   <code><img title="Cloud Formation" height="25" src="images/cloudformation.svg"></code>
