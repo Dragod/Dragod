@@ -13,6 +13,8 @@
   <code><img title="Cypress" height="25" src="images/Cypress_Logomark_White-Color.svg"></code>
   <code><img title="EC2" height="25" src="images/EC2.svg"></code>
   <code><img title="ECS" height="25" src="images/ecs.svg"></code>
+  <code><img title="Cloud Formation" height="25" src="images/cloudformation.svg"></code>
+  <code><img title="Cloud watch" height="25" src="images/cloudwatch.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
