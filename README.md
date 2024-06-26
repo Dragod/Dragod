@@ -23,7 +23,7 @@
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
 </p>
 <hr>
-👋 Hi, I’m @Fabio, I am working as a DevOps at <a href="https://www.screendragon.com">Screendragon</a>
+👋 Hi, I’m @Fabio, I am working as a DevOps at <a href="https://www.screendragon.com">Screendragon</a></br>
 
 All the area that I am interested in:
 
