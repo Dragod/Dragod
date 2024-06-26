@@ -23,7 +23,7 @@
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
 </p>
 <hr>
-👋 Hi, I’m @Dragod, I am working as a DevOps at [Screendragon](https://www.screendragon.com/)
+👋 Hi, I’m @Fabio, I am working as a DevOps at [Screendragon](https://www.screendragon.com/)
 
 All the area that I am interested in:
 -  Languages: Javascript, Python, c#, Powershell
@@ -40,8 +40,7 @@ All the area that I am interested in:
 -  Web development html/css(sass/stylus)
 -  Self-hosting (mostly with Docker)
 -  DB's Sqlite, Postgres (Supabase), MSsql, Mongo, Mysql, MariaDb
-
-I’m currently learning MySql, Mongo, C#
+- Cloud: AWS [EC2, ECS, Coludformation, Coludwatch]
 
 <!---
 Dragod/Dragod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
