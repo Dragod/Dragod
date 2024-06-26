@@ -1,23 +1,3 @@
-👋 Hi, I’m @Dragod, I am working as a DevOps at [Screendragon](https://www.screendragon.com/)
-
-All the area that I am interested in:
--  Languages: Javascript, Python, c#, Powershell
--  E2e testing (Cypress)
--  Scripting (Powershell, Python, Bash)
--  GUI with electron, C# (wpf xaml), powershell
--  Automation with Ansible and Terraform
--  CI/CD: Jenkins, Github Actions
--  Nodejs
--  Framework: Vue, Svelte, Expressjs
--  Linux OS
--  Networking
--  Virtualization (proxmox, vmware workstation)
--  Web development html/css(sass/stylus)
--  Self-hosting (mostly with Docker)
--  DB's Sqlite, Postgres (Supabase), MSsql, Mongo, Mysql, MariaDb
-
-I’m currently learning MySql, Mongo, C#
-
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -41,6 +21,25 @@ I’m currently learning MySql, Mongo, C#
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
 </p>
 <hr>
+👋 Hi, I’m @Dragod, I am working as a DevOps at [Screendragon](https://www.screendragon.com/)
+
+All the area that I am interested in:
+-  Languages: Javascript, Python, c#, Powershell
+-  E2e testing (Cypress)
+-  Scripting (Powershell, Python, Bash)
+-  GUI with electron, C# (wpf xaml), powershell
+-  Automation with Ansible and Terraform
+-  CI/CD: Jenkins, Github Actions
+-  Nodejs
+-  Framework: Vue, Svelte, Expressjs
+-  Linux OS
+-  Networking
+-  Virtualization (proxmox, vmware workstation)
+-  Web development html/css(sass/stylus)
+-  Self-hosting (mostly with Docker)
+-  DB's Sqlite, Postgres (Supabase), MSsql, Mongo, Mysql, MariaDb
+
+I’m currently learning MySql, Mongo, C#
 
 <!---
 Dragod/Dragod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
