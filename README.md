@@ -23,10 +23,9 @@
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
 </p>
 <hr>
-👋 Hi, I’m @Fabio, I am working as a DevOps at <a href="https://www.screendragon.com">Screendragon</a></br>
+👋 Hi, I’m @Fabio, I am working as a DevOps at <a href="https://www.screendragon.com">Screendragon</a>
 
 All the area that I am interested in:
-
 -  Languages: Javascript, Python, c#
 -  E2e testing (Cypress)
 -  Scripting (Powershell, Python, Bash)
