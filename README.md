@@ -45,8 +45,6 @@ All the area that I am interested in:
 -  DB's Sqlite, Postgres (Supabase), MSsql, Mongo, Mysql, MariaDb
 - Cloud: AWS [EC2, ECS, Coludformation, Coludwatch]
 <hr>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragod&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <!---
